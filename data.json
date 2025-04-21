@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "name": "Sports Complex Parking",
     "latitude": 23.2113519,
     "longitude": 72.687124,
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 1,
     "name": "Solar Parking",
     "latitude": 23.212594,
     "longitude": 72.683631,
@@ -39,7 +39,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "U corridor Parking",
     "latitude": 23.215463,
     "longitude": 72.6854815,
@@ -57,7 +57,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "AB 13 Open Parking",
     "latitude": 23.213625,
     "longitude": 72.6883877,
