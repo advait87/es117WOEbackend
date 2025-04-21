@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Sports Complex Parking",
+    "latitude": 23.2113519,
+    "longitude": 72.687124,
+    "price": 200,
+    "slots": 7,
+    "total_slots": 15,
+    "type": "Paid",
+    "available_slots": [
+      "A1",
+      "A3",
+      "B2",
+      "C4",
+      "A2",
+      "B4",
+      "B3"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Solar Parking",
+    "latitude": 23.212594,
+    "longitude": 72.683631,
+    "price": 120,
+    "slots": 8,
+    "total_slots": 25,
+    "type": "Paid",
+    "available_slots": [
+      "A1",
+      "A3",
+      "D3",
+      "D1",
+      "A2",
+      "A6",
+      "B3",
+      "B4"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "U corridor Parking",
+    "latitude": 23.215463,
+    "longitude": 72.6854815,
+    "price": 200,
+    "slots": 5,
+    "total_slots": 25,
+    "type": "Paid",
+    "available_slots": [
+      "A1",
+      "A3",
+      "B2",
+      "C4",
+      "D1",
+      "E4"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "AB 13 Open Parking",
+    "latitude": 23.213625,
+    "longitude": 72.6883877,
+    "price": 1000,
+    "slots": 7,
+    "total_slots": 20,
+    "type": "Paid",
+    "available_slots": [
+      "A1",
+      "A3",
+      "B2",
+      "C4",
+      "D1",
+      "B4",
+      "D2",
+      "B5"
+    ]
+  }
+]
