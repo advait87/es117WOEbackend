@@ -103,6 +103,10 @@ app.post("/slot_data", (req, res) => {
   res.send("Slot data added successfully");
 });
 
+app.get('/', (req, res) => {
+  res.send("Hi");
+});
+
 const PORT = 3000;
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
